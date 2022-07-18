@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QueirozEdu
 - 👀 I’m interested in coding and embedded hardware design
 - 🌱 I’m currently learning Angular, React, Swift
-- 💞️ I’m looking to collaborate on entry level projects
+- 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me: contato@eduardoqueiroz.dev
 
 <!---
