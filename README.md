@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QueirozEdu
+- 👋 Hi, I’m Eduardo Queiroz
 - 👀 I’m interested in coding and embedded hardware design
 - 🌱 I’m currently learning Angular, React, Swift
 - 💞️ I’m looking to collaborate on front-end projects
