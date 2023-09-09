@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Eduardo Queiroz
-- 👀 I’m interested in coding and embedded hardware design
-- 🌱 I’m currently learning Angular, React, Swift
-- 💞️ I’m looking to collaborate on front-end projects
+- 🔭 A Computer Engineer passionate about Coding and Quality
+- 👀 I’m interested in QA Engineering and frontend development
+- 🌱 I’m currently learning Appium
+- 💞️ I’m looking to collaborate on software products as a QA Engineer and frontend developer 
 - 📫 How to reach me: eduhmq@gmail.com
 
 <!---
