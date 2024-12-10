@@ -1,9 +1,28 @@
-- 👋 Hi, I’m Eduardo Queiroz
-- 🔭 A Computer Engineer passionate about Coding and Quality
-- 👀 I’m interested in QA Engineering and frontend development
-- 🌱 I’m currently learning Appium
-- 💞️ I’m looking to collaborate on software products as a QA Engineer and frontend developer 
-- 📫 How to reach me: eduhmq@gmail.com
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Hi, 
+  I’m a Computer Engineer and Software developer with a focus on Quality Assurance
+</p>
+
+<p align="left">
+  🦄 Languages: Java, JavaScript, Python, C++, HTML & CSS
+</p>
+
+<p align="left">
+  💼 Tools & Frameworks: Selenium, Cypress, REST Assured, Robot Framework, Appium, Postman & Insomnia
+</p>
+
+<p align="left">
+  💌 Some ways to get in touch with me ⤵️
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/eduardo-queiroz-dev/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-queiroz-dev" alt="LinkedIn"/></a>
+</p>
+
+
 
 <!---
 QueirozEdu/QueirozEdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
