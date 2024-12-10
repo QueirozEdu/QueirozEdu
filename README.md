@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Some ways to get in touch with me ⤵️
+  💌 How to get in touch with me ⤵️
 </p>
 
 <p align="left">
